@@ -53,8 +53,8 @@
       "gerber": "open",
       "bom": "open",
       "license": "CERN-OHL-S 2.0",
-      "reference": "https://github.com/pulp-bio/TinyProbe/tree/main/wifi_6_board",
-      "notes": null
+      "reference": "https://github.com/pulp-bio/TinyProbe",
+      "notes": "Only Wi-Fi 6 board released; other boards planned."
     },
     "sw": {
       "open_source": true,
@@ -62,7 +62,7 @@
       "host_software": "open",
       "license": "Open-source release planned",
       "reference": "https://github.com/pulp-bio/TinyProbe",
-      "notes": "Host PC software released; embedded firmware release planned."
+      "notes": "Host PC software and Wi-Fi 6 firmware released; FPGA firmware release planned."
     },
     "purchase": {
       "available": false,
@@ -70,7 +70,7 @@
       "url": null,
       "price_usd": null,
       "price_eur": null,
-      "price_note": "Build cost not yet published; user assembles from open-source design files. Comparable 32-channel BLE/Wi-Fi imaging probes typically build in the $300–$600 range per probe in small batches."
+      "price_note": "Build cost not yet published; user assembles from open-source design files."
     }
   }
 }
