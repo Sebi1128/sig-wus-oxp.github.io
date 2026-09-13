@@ -4,6 +4,7 @@
   "manufacturer": "ETH Zürich",
   "affiliation": "Integrated Systems Laboratory (IIS)",
   "reference": "vostrikov_tinyprobe_2025",
+  "verified_at": "2026-09-13",
   "category": "Pulse-echo imaging",
   "year": 2025,
   "transducer": {
