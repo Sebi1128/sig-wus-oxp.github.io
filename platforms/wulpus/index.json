@@ -7,7 +7,7 @@
   "category": "Pulse-echo non-imaging",
   "application": "Hand-gesture HMI, carotid monitoring, EMG fusion, respiration, non destructive testing",
   "reference": "frey_wulpus_2022",
-  "verified_at": "2026-09",
+  "verified_at": "2026-09-14",
   "paper": "https://doi.org/10.1109/IUS54386.2022.9958156",
   "github": "https://github.com/pulp-bio/wulpus",
   "website": null,
